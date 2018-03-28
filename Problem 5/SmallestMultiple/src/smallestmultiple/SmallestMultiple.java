@@ -33,7 +33,7 @@ public class SmallestMultiple {
                     i = 21;
                 }
             }
-            n++;
+            n+=20;
         }
         return smallest;
     }
